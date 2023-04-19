@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from io import StringIO
 
-st.write('# Time Tracking CSV reformatter')
+st.write('# Time Tracking CSV rationalizer')
 st.write('by Kyle Cranmer')
 
 uploaded_file = st.file_uploader("Choose a file")
