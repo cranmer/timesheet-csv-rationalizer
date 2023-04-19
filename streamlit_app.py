@@ -19,7 +19,7 @@ if uploaded_file is not None:
     #string_data = stringio.read()
     #st.write(string_data)
 
-    output_filename = 'reformatted'+uploaded_file.name
+    output_filename = 'reformatted-'+uploaded_file.name
     inf = stringio
     #outf = open(output_filename,'w')
     header = inf.readline()
