@@ -5,7 +5,7 @@ A little project with a simple CSV reformatting task. Using this to test out dif
 
 ## Streamlit App
 
-[https://cranmer-timesheet-csv-rationalizer-streamlit-app-0l9eh5.streamlit.app/](**Launch App**)
+[**Launch App!**](https://cranmer-timesheet-csv-rationalizer-streamlit-app-0l9eh5.streamlit.app/)
 
 ![](streamlit-screenshot.jpg)
 
